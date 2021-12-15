@@ -1,0 +1,18 @@
+# ninja log v5
+42	1606	661019704	workflow/CMakeFiles/workflow.dir/grep.cpp.obj	a60d1bc0387b3b7
+20	1611	661019704	workflow/CMakeFiles/workflow.dir/main.cpp.obj	62a66d9faf483204
+37	1685	661019704	workflow/CMakeFiles/workflow.dir/count.cpp.obj	40bc73e36fbae1b3
+1	1758	661019704	workflow/CMakeFiles/workflow.dir/factory.cpp.obj	99beea723359162
+33	1760	661019704	workflow/CMakeFiles/workflow.dir/dump.cpp.obj	bd7d7a48e33f5a0a
+24	1786	661019704	workflow/CMakeFiles/workflow.dir/readFile.cpp.obj	ae4e13b5211980d3
+28	1816	661019704	workflow/CMakeFiles/workflow.dir/writefile.cpp.obj	e5ad45281b1c1687
+6	1825	661019704	workflow/CMakeFiles/workflow.dir/reader.cpp.obj	8fd67098c9f03cfb
+16	1881	661019704	workflow/CMakeFiles/workflow.dir/workflow.cpp.obj	d4f99f5a74f5474f
+1	1408	661020348	workflow/CMakeFiles/workflow.dir/worker.cpp.obj	f9cd579aa41041ad
+14	1431	661020348	workflow/CMakeFiles/workflow.dir/replace.cpp.obj	dcb4d4848b6c7bc6
+7	1456	661020348	workflow/CMakeFiles/workflow.dir/factory.cpp.obj	99beea723359162
+1	1161	661020488	workflow/CMakeFiles/workflow.dir/factory.cpp.obj	99beea723359162
+1	1151	661020522	workflow/CMakeFiles/workflow.dir/factory.cpp.obj	99beea723359162
+1	1142	661020686	workflow/CMakeFiles/workflow.dir/factory.cpp.obj	99beea723359162
+1	1407	661021656	workflow/CMakeFiles/workflow.dir/sort.cpp.obj	92961d0d72a9880
+1410	2105	661021657	workflow/workflow.exe	404387bc9c3ab62e

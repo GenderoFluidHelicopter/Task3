@@ -1,0 +1,5 @@
+C:/Users/Admin/source/repos/workflow/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/Users/Admin/source/repos/workflow/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/source/repos/workflow/out/build/x64-Debug (по умолчанию)/workflow/CMakeFiles/edit_cache.dir
+C:/Users/Admin/source/repos/workflow/out/build/x64-Debug (по умолчанию)/workflow/CMakeFiles/workflow.dir
+C:/Users/Admin/source/repos/workflow/out/build/x64-Debug (по умолчанию)/workflow/CMakeFiles/rebuild_cache.dir
